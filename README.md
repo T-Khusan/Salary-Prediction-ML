@@ -23,4 +23,3 @@
 12. Automating tasks through the application of machine learning algorithms, enhancing efficiency
 
 13. Enhancing data handling efficiency by leveraging Python libraries and their capabilities
-14. 
